@@ -1,0 +1,13 @@
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csprojAssemblyReference.cache
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.cache
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CoreCompileInputs.cache
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CopyComplete
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Form1.resources

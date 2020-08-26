@@ -1,0 +1,9 @@
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.deps.json
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.dll
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.pdb
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csprojAssemblyReference.cache
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfoInputs.cache
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfo.cs
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.dll
+Z:\Projects\LinkEdin\C# Essential Training 1 Syntax and Object Oriented Programming\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.pdb
